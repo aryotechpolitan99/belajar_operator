@@ -1,4 +1,4 @@
-public class Assigment{
+public class Assigment{ //penugasan
 	public static void main(String[] args){
 		int a = 10;
 		int b = 5;
